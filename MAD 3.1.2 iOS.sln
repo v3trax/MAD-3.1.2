@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B6289B9C-E296-A39F-1424-463F8498DAE2}") = "MAD 3.1.2 iOS", "Assembly-CSharp.csproj", "{3E1C3BB7-3E21-5167-9F3E-BF6B7CB6C072}"
+EndProject
+Project("{B6289B9C-E296-A39F-1424-463F8498DAE2}") = "MAD 3.1.2 iOS", "Assembly-CSharp-Editor.csproj", "{05BB0A9A-658E-1498-2B71-EAF569988617}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E1C3BB7-3E21-5167-9F3E-BF6B7CB6C072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E1C3BB7-3E21-5167-9F3E-BF6B7CB6C072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E1C3BB7-3E21-5167-9F3E-BF6B7CB6C072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E1C3BB7-3E21-5167-9F3E-BF6B7CB6C072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05BB0A9A-658E-1498-2B71-EAF569988617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05BB0A9A-658E-1498-2B71-EAF569988617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05BB0A9A-658E-1498-2B71-EAF569988617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05BB0A9A-658E-1498-2B71-EAF569988617}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
